@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "kakao",
+            "type": "python",
+            "request": "launch",
+            "module": "kakao.main",
+            "args": ["--input_folder", "/Users/jameschee/Desktop/promtme_storage/kakao"],
+            "justMyCode": true
+        }
+    ]
+}
